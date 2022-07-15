@@ -4,7 +4,7 @@
 
 # 独 秀 <small>1.0.0</small>
 
-> 一个神奇的文档生成器.
+> 一个神奇的文档生成器..
 
 <!-- - Simple and lightweight
 - No statically built html files
