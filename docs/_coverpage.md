@@ -2,7 +2,7 @@
 
 ![logo](logo.png)
 
-# Du Xiu <small>3.5</small>
+# 独 秀 <small>1.0.0</small>
 
 > 一个神奇的文档生成器.
 
