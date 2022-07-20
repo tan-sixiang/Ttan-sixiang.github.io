@@ -3,7 +3,7 @@
 * [操作指南](guide) 
 
 * 第一阶段
-    * [集合](FirstStage/List/list/)
+    * [集合](FirstStage/List/)
     * [其他](FirstStage/other/)
 *服务器端技术
     * [javascript](02/javascript/)
