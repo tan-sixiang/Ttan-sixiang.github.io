@@ -21,7 +21,7 @@ String format = sdf.format(date);       system.out.println(format);
 
 ## 二. Collection
 
-![集合结构](\image\01.png)
+![集合结构](image\01.png)
 
 ```java
 // 创建一个空的集合列表
@@ -79,7 +79,7 @@ for(String s : list) {
 
 ​	迭代是重复反馈过程的活动,其⽬的通常是为了逼近所需⽬标或结果。每⼀次对过程的重复称为⼀次“迭代”, 而每⼀次迭代得到的结果会作为下⼀次迭代的初始值。
 
-![迭代器](\image\02.png)
+![迭代器](image\02.png)
 
 #### 3.2迭代器作用(Iterator)
 
