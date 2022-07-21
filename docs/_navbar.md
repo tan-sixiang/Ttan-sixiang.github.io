@@ -4,7 +4,7 @@
 
 * 第一阶段
   * [集合](FirstStage/List/list.md)
-  * [其他](FirstStage/other)
-* 服务器端技术
+  * [其他](FirstStage/other/README.md)
+* 第二阶段
   * [javascript](02/javascript)
   * [echarts](02/echarts)

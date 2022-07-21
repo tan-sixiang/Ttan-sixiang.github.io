@@ -10,5 +10,5 @@
 - No statically built html files
 - Multiple themes -->
 
-[GitHub](https://github.com/tan-sixiang/Ttan-sixiang.github.io/)
+[GitHub](https://tan-sixiang.github.io/)
 [Get Started](README.md)
