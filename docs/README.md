@@ -4,8 +4,11 @@
 
 独秀
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
-</script>
+- 👋 Hi, I’m @tan-sixiang
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
 [>>操作指南](guide)
 
